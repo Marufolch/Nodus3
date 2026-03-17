@@ -1,0 +1,27 @@
+Para ejecutar el programa se debe tener instalado node js
+
+abrir la consola (CMD)
+ejecutar los siguientes comandos:
+1- cd "C:\Users\Maru\Desktop\Final PP>\Backend"
+esta ruta se usa para navegar la carpeta Backend
+
+2- npm install (solo la primera vez)
+npm install mssql
+
+
+3- node backend/server.js
+((Debe aparecer: "✅ Servidor corriendo en http://localhost:4000")
+
+Usuarios y claves:
+medico --> medico123
+administrador --> administrador123
+
+
+
+abrir visual studio:
+- cd backend
+- node server.js (o node backend/server.js /--> un solo paso)
+(Debe aparecer: "✅ Servidor corriendo en http://localhost:4000")
+
+ejecutar con Liver server de VScode (instalar extencion, luego click derecho Abrir con...)
+http://127.0.0.1:5500/Frontend/index.html
